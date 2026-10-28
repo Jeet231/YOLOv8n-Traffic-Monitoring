@@ -57,7 +57,7 @@ Tracking diagnostics on a separately recorded traffic video:
 
 | Dataset split | Vehicle class distribution |
 | --- | --- |
-| [Dataset split](Project_Figures/02_GRAM_Dataset_Split.png) | [Class distribution](Project_Figures/03_Vehicle_Class_Distribution.png) |
+| ![Dataset split](Project_Figures/02_GRAM_Dataset_Split.png) | [Class distribution](Project_Figures/03_Vehicle_Class_Distribution.png) |
 
 | YOLOv8n detection performance | Tracking statistics |
 | --- | --- |
