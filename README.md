@@ -14,7 +14,7 @@ The system processes traffic footage in the following stages:
 4. Associate detections across frames using tracking algorithms.
 5. Save annotated tracking videos and frame/track-level outputs for analysis.
 
-[Project system architecture](Project_Figures/01_System_Architecture.png)
+[Project system architecture](YOLOv8n_Traffic_Monitoring/Project_Figures/01_System_Architecture.png)
 
 ### Vehicle classes
 
