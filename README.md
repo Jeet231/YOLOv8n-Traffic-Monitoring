@@ -14,7 +14,7 @@ The system processes traffic footage in the following stages:
 4. Associate detections across frames using tracking algorithms.
 5. Save annotated tracking videos and frame/track-level outputs for analysis.
 
-[Project system architecture](YOLOv8n_Traffic_Monitoring/Project_Figures/01_System_Architecture.png)
+![Project system architecture](YOLOv8n_Traffic_Monitoring/Project_Figures/01_System_Architecture.png)
 
 ### Vehicle classes
 
@@ -57,11 +57,11 @@ Tracking diagnostics on a separately recorded traffic video:
 
 | Dataset split | Vehicle class distribution |
 | --- | --- |
-| ![Dataset split](Project_Figures/02_GRAM_Dataset_Split.png) | [Class distribution](Project_Figures/03_Vehicle_Class_Distribution.png) |
+| ![Dataset split](YOLOv8n_Traffic_Monitoring/Project_Figures/02_GRAM_Dataset_Split.png) | ![Class distribution](YOLOv8n_Traffic_Monitoring/Project_Figures/03_Vehicle_Class_Distribution.png) |
 
 | YOLOv8n detection performance | Tracking statistics |
 | --- | --- |
-| [Detector performance](Project_Figures/04_YOLOv8n_Detection_Performance.png) | [Tracking statistics](Project_Figures/05_Tracking_Statistics.png) |
+| ![Detector performance](YOLOv8n_Traffic_Monitoring/Project_Figures/04_YOLOv8n_Detection_Performance.png) | ![Tracking statistics](YOLOv8n_Traffic_Monitoring/Project_Figures/05_Tracking_Statistics.png) |
 
 These five PNG figures are included in the [`Project_Figures/`](Project_Figures/) folder and were extracted from the supplied project report. They are not screenshots of live vehicle detections. Download the folder along with this README so GitHub can display them.
 
