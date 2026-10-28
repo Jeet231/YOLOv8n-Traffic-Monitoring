@@ -190,6 +190,6 @@ The archived `scripts/run_ocsort.py` is preserved for completeness, but it uses 
 
 ## Project context and credits
 
-Developed as a **7th-semester Minor Project** in Computer Engineering (Artificial Intelligence & Machine Learning), Silver Oak University. Project contributors: **Jeet Gajjar, Darsh Amin, and Varun Rochwani**. Faculty guide: **Prof. Sanket Shah**.
+Developed as a **7th-semester Minor Project** in Computer Engineering (Artificial Intelligence & Machine Learning), Silver Oak University. Project contributors: **Jeet Gajjar and Darsh Amin**. Faculty guide: **Prof. Sanket Shah**.
 
 The implementation builds on Ultralytics YOLO, ByteTrack, DeepSORT, and OC-SORT, and uses the GRAM road-traffic dataset. Credit the original maintainers and dataset creators when publishing derived work. No license for this student's original project code has been selected here; add a `LICENSE` file only after the contributors agree on one.
